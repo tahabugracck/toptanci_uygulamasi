@@ -1,0 +1,47 @@
+name: toptanci_uygulamasi
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.2
+  crypto: ^3.0.5
+  http: ^1.2.2
+  web_socket_channel: ^3.0.1
+  mongo_dart: ^0.10.3
+  faker: ^2.2.0
+  json_annotation: ^4.9.0
+  date_time_format: ^2.0.1
+  intl: ^0.19.0
+  carousel_slider: ^5.0.0
+  fl_chart: ^0.69.0
+  pie_chart: ^5.4.0
+  logging: ^1.2.0
+  bson: ^5.0.4
+  fixnum: ^1.1.0
+  cached_network_image: ^3.4.1
+  google_fonts: ^6.2.1
+  stack_trace: ^1.11.1
+  provider: ^6.1.2
+  fullscreen_window: ^1.1.0
+  flutter_animate: ^4.5.0
+  dartz: ^0.10.1
+  shared_preferences: ^2.3.2
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
