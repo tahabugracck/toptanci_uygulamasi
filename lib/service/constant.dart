@@ -29,9 +29,3 @@ const STOCK_MOVEMENT_COLLECTION = "stockMovement";
 
 // Kullanıcı bilgilerini tutan koleksiyonun adı
 const USERS_COLLECTION = "users";
-
-/*
-Veritabanı kullanıcı adı ve şifresi:
-user = "tahaabugracicek"
-password = "1234"
-*/
