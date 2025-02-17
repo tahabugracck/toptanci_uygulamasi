@@ -1,7 +1,7 @@
 // ignore_for_file: constant_identifier_names
 
 // MongoDB bağlantı URL'si. Veritabanı bağlantı bilgileri içermektedir.
-const MONGO_CONN_URL = "mongodb+srv://tahaabugracicek:1234@toptanciuygulamasi.ndsv2.mongodb.net/ToptanciUygulamasi?retryWrites=true&w=majority&appName=toptanciUygulamasi";
+const MONGO_CONN_URL = "";
 
 // Kullanıcıların marka bilgilerini tutan koleksiyonun adı
 const BRANDS_COLLECTION = "brands";
